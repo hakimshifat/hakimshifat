@@ -1,6 +1,4 @@
-![hakimshifat's Stats](https://github-readme-stats.vercel.app/api?username=hakimshifat&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
-![hakimshifat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hakimshifat&theme=nord&hide_border=true)
+![hakimshifat's Stats](https://github-readme-stats.vercel.app/api?username=hakimshifat&theme=nord&show_icons=true&hide_border=true&count_private=true) ![hakimshifat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hakimshifat&theme=nord&hide_border=true)
 
 ![hakimshifat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimshifat&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
@@ -31,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://https://www.instagram.com/hakim.shifat/" target="_blank">
+  <a href="https://www.instagram.com/hakim.shifat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/hakimshifat" target="_blank">
